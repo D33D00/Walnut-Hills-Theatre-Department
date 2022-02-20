@@ -6,7 +6,7 @@
 
 VERSION 1
 
-38a77713-3f4e-4d62-80ce-0489cde151c8:Textures:Textures
-efdffe50-306f-4d39-854d-5eadd4d44fd0:Wood:Wood
-55b41249-d7e1-4bac-a48a-f1ef9d1b3393:Wood/Platforms:Wood-Platforms
-f23dd6f1-9ce9-4c06-ae8b-3e697a3b4a44:Wood/Scrap Wood:Wood-Scrap Wood
+eb350c0e-2ace-4fed-94c3-f533d834712a:Wood:Wood
+c7c72247-b247-42f7-b58a-b1b4cf35a65b:Wood/Platforms:Wood-Platforms
+3de02178-5c7c-40f6-872d-eeab6a11c266:Wood/Plywood:Wood-Plywood
+496e9999-7d6e-4b96-85d8-f295faacd624:Wood/Scrap Wood:Wood-Scrap Wood
