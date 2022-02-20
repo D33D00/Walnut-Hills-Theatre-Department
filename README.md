@@ -1,1 +1,1 @@
-## https://sites.google.com/view/whhstheatredepartment/home?authuser=0
+## https://sites.google.com/view/whhstheatredepartment/home
