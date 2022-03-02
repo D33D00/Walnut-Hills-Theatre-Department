@@ -6,6 +6,8 @@
 
 VERSION 1
 
+018437ab-42a2-458e-8e8e-04d49f20f723:Textures:Textures
+c01fa6bb-e197-4fbd-bed1-70c191bf5cff:Theaters:Theaters
 eb350c0e-2ace-4fed-94c3-f533d834712a:Wood:Wood
 c7c72247-b247-42f7-b58a-b1b4cf35a65b:Wood/Platforms:Wood-Platforms
 3de02178-5c7c-40f6-872d-eeab6a11c266:Wood/Plywood:Wood-Plywood
